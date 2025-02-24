@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry. 
 
-**Software engineering is the process of designing, building, testing and maintaining computer programs that solve real world problems in a structered way. Software Engineering plays a crucial role in the tech space, which gives it multiple reasons of its importance in the industry. Those being Reliability & Efficiency, Scalability, Security and Innovation. It offers reliabilty in a sense that it ensures dependability and efficiency in a sense that productivity is confirmed for the user that will be using it. Scalability ensures that software engineering will allow their systems to grow and adapt. Security is one of the things that is incorporated in secure coding practices and regular testing within Software Engineering. This safeguards sensitive data and protects against cyber threats. Lastly, Software engineering provides a systematice framework for experimenting with new ideas and technologies, driving innovation and pushing technological boundaries.**
+**Software engineering is the process of designing, building, testing and maintaining computer programs that solve real world problems in a structered way. Software Engineering plays a crucial role in the tech space, which gives it multiple reasons of it's importance in the industry. Those being Reliability & Efficiency, Scalability, Security and Innovation. It offers reliabilty in a sense that it ensures dependability and efficiency in a sense that productivity is confirmed for the user that will be using it. Scalability ensures that software engineering will allow their systems to grow and adapt. Security is one of the things that is incorporated in secure coding practices and regular testing within Software Engineering. This safeguards sensitive data and protects against cyber threats. Lastly, Software engineering provides a systematice framework for experimenting with new ideas and technologies, driving innovation and pushing technological boundaries.**
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
@@ -61,6 +61,17 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
+**Debugging and Fixing Bugs
+• Use tools to help find errors in the code.
+• Break the problem into smaller parts to locate the issue.
+• Write small tests early to catch mistakes sooner.
+• Work with a teammate to get a fresh perspective.**
+
+**Managing Complexity
+• Split big programs into smaller, easy-to-manage parts.
+• Follow common coding patterns to solve repeated problems.
+• Keep code clean and well-documented for easier updates.
+• Regularly improve and simplify code when needed.**
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
@@ -86,10 +97,9 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
-Prompt engineering is the process of crafting effective prompts (questions or instructions) to get the best possible response from an AI model. 
+**Prompt engineering is the process of crafting effective prompts (questions or instructions) to get the best possible response from an AI model. It's importance is that it saves time from having to continously prompt and hope that you will get the response you wanted from the start. It as well, avoids confusion in the process when giving out better answers.**
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-Vague Prompt: "What is  "
-
-Improved Prompt: "Explain what is in simpler terms that a 5 year old would understand"
+**Vague Prompt: "Object Oriented Programming"
+Improved Prompt: "Explain what is Object Oriented Programming in simpler terms that a 5 year old would understand"**
